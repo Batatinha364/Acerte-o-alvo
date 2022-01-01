@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 564a405e20d90e84aac84e042031784f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PTUI: {instanceID: 0}
+  - PTMaxUI: {instanceID: 0}
+  - player: {instanceID: 0}
+  - GameOverSE: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
